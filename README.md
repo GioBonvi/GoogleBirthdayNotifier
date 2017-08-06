@@ -1,4 +1,4 @@
-# Google Calendar Birthday Notifications
+# Google Birthday Notifier
 
 Receive email notifications for your Google contacts' birthday.
 
